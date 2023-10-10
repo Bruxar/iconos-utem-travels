@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/iconos-utem-travels/static/css/main.07566813.css",
+    "main.js": "/iconos-utem-travels/static/js/main.04f46476.js",
+    "static/js/787.9164d4bc.chunk.js": "/iconos-utem-travels/static/js/787.9164d4bc.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/iconos-utem-travels/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/iconos-utem-travels/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/iconos-utem-travels/index.html",
+    "main.07566813.css.map": "/iconos-utem-travels/static/css/main.07566813.css.map",
+    "main.04f46476.js.map": "/iconos-utem-travels/static/js/main.04f46476.js.map",
+    "787.9164d4bc.chunk.js.map": "/iconos-utem-travels/static/js/787.9164d4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07566813.css",
+    "static/js/main.04f46476.js"
+  ]
+}
